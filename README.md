@@ -56,6 +56,7 @@ To run the application, you need to start both the backend and the frontend serv
     The API server will be running on `http://127.0.0.1:8000`.
 
 2.  **Start the Frontend Development Server**
+   
     Add .env file and fill the Gemini API Key,
     In a separate terminal, navigate to the `react-nas-ui` directory and run the following command:
 
